@@ -10,5 +10,7 @@
   * http://www.ireadweek.com/
   * http://www.feedbooks.com/
   * http://www.gutenberg.org/
+  * http://book.knowsky.com/
+  * http://ishare.iask.sina.com.cn/
   * ...
   
