@@ -12,5 +12,5 @@
   * http://www.gutenberg.org/
   * http://book.knowsky.com/
   * http://ishare.iask.sina.com.cn/
-  * ...
+  * http://kindle115.com/
   
